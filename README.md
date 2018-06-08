@@ -68,6 +68,8 @@ Oh, and I left the now even more useless webcam with the chopped off connector p
 
 ![](images/DSC08245.JPG)
 
+My Asus c201 now can run open source software from the BIOS (libreboot) to the OS (debian or devuan) to the wifi card. And no intel ME to do unknown things! ;) 
+
 
 Firmware build instructions: https://wiki.debian.org/ath9k_htc/open_firmware
 
