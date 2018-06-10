@@ -45,6 +45,8 @@ So now, I chopped off the webcam connector and soldered Black, red, Brown, and O
 
 It works!
 
+![](images/DSC08241.JPG)
+
 Now to find a place to stuff the guts of the dongle.
 
 The most space can be found under the "heatsink" / keyboard reinforcement right by where the battery wire run. 
